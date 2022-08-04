@@ -27,7 +27,7 @@ class Check
 		}
 		catch(Exception e)
 		{
-			
+	         System.out.println(e);
 		}
 		return 0;
 	}
