@@ -233,7 +233,7 @@ class Voting
 		 if(ch==1)
 		 {
 			 Scanner s=new Scanner(System.in);
-			final String password="admin@145";
+			 String password="admin@145";
 			System.out.println("enter password");
 			String p=s.nextLine();
 			if(p.equals(password))
